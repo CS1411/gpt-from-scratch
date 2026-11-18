@@ -1,0 +1,3 @@
+block input : (4, 8, 32)
+block output: (4, 8, 32)  <- same shape in and out, so blocks stack
+parameters in one block: 12608
