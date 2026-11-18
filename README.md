@@ -13,8 +13,8 @@ Papers: [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs
 - [x] Lesson 5 - Look back, never forward
 - [x] Lesson 6 - The transformer block
 - [x] Lesson 7 - Assemble and train the GPT
-- [ ] Lesson 8 - Make it talk (decoding strategies)
-- [ ] Lesson 9 - Ship your mini-GPT
+- [x] Lesson 8 - Make it talk (decoding strategies)
+- [x] Lesson 9 - Ship your mini-GPT
 - [ ] Completion test
 - [ ] Project
 

@@ -1,0 +1,36 @@
+=== temperature 0.5 (conservative) ===
+ 
+thy thou she wisell it of the hat youd thelst tou couse you thave and he he his beiell sould hist that of tor is bee and this couder non my my tood the sto for mathise tougod the hin soud the coure of to prate his my you,
+And the my in come conge my in a the tou thing.
+
+KES:
+Se thou the sou the the 
+
+=== temperature 1.4 (wild) ===
+ 
+tly, mhis khaw selte, ouce meaman youd Igelst, grecourewy hitnty
+here hath Dom seeiell! mansericest.
+---Ky wreit Myemacces idy thoer non myt sty!o Mepwhyt If ai'd Iioedvott,
+Prescon'ds uzy,
+I! Br.S:
+HIn, pradithi
+-Olly mooven, siay, int ouq dhellomewigl' i'd tout tonc.
+Poin,bo youn qon gor evexmysha
+
+=== top-k = 10 ===
+ 
+Thy, mhis thereselt ild canderave woud wotoste trecoures,
+O thave are heth thig beis is sand hicest atsoos ordied weach.
+Wend conder hen my my toor the stour a mad isentougad the hin soud thus men hou myent,
+Thand milk mooven, sing tint of mevellome int bimede he toncigidin,
+Sest on of cor hat my ha
+
+=== top-p = 0.9 (nucleus) ===
+ 
+thy forkse har selt ild canderave youd woulste trecoures,
+O ford here hath thigs ore is sand hicest.
+
+Nory weait Mye ances isart, trond; my fittoor epe you for mad iservot anctes of the wee
+I creare a
+The thaith and love, hond sing eigs of levellome int bumede he toncigidin,
+Sest on of gor hat my ha
