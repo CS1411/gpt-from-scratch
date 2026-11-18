@@ -1,0 +1,27 @@
+
+No clue
+-------
+Logits : [0.0, 0.0, 0.0, 0.0, 0.0]
+Probabilities: [0.2, 0.2, 0.2, 0.2, 0.2]
+P(correct) : 0.2
+CrossEntropy = -log(P(correct))
+             = -log(0.2000)
+             = 1.6094
+
+Leans correct
+-------------
+Logits : [0.0, 0.0, 3.0, 0.0, 0.0]
+Probabilities: [0.0415, 0.0415, 0.8339, 0.0415, 0.0415]
+P(correct) : 0.8339
+CrossEntropy = -log(P(correct))
+             = -log(0.8339)
+             = 0.1816
+
+Confidently wrong
+-----------------
+Logits : [5.0, 0.0, 0.0, 0.0, 0.0]
+Probabilities: [0.9738, 0.0066, 0.0066, 0.0066, 0.0066]
+P(correct) : 0.0066
+CrossEntropy = -log(P(correct))
+             = -log(0.0066)
+             = 5.0266

@@ -1,0 +1,24 @@
+corpus length: 1115394 characters
+
+First Citizen:
+Before we proceed any further, hear me speak.
+
+All:
+Speak, speak.
+
+First Citizen:
+You are all resolved rather to die than to famish?
+
+All:
+Resolved. resolved.
+
+First
+
+vocabulary: 65 unique characters
+
+ !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+
+encode('Hello'): [20, 43, 50, 50, 53]
+decode back    : Hello
+
+data tensor: (1115394,) | train: 1003854 | val: 111540
