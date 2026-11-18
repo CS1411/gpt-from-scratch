@@ -8,8 +8,8 @@ Papers: [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs
 
 - [x] Lesson 1 - What a language model is
 - [x] Lesson 2 - Text to tokens
-- [ ] Lesson 3 - Tokens to vectors
-- [ ] Lesson 4 - Self-attention
+- [x] Lesson 3 - Tokens to vectors
+- [x] Lesson 4 - Self-attention
 - [ ] Lesson 5 - Look back, never forward
 - [ ] Lesson 6 - The transformer block
 - [ ] Lesson 7 - Assemble and train the GPT

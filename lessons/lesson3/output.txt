@@ -1,0 +1,5 @@
+input batch x: (4, 8) (batch, time)
+target batch y: (4, 8) -> y is x shifted one step (the 'next token' at each position)
+token embeddings    : (4, 8, 32)
+position embeddings : (8, 32)
+model input (tok+pos): (4, 8, 32)  <- one 32-d vector per token, position baked in
