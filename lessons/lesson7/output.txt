@@ -1,0 +1,22 @@
+total parameters: 159937
+untrained loss: 4.450 (random guessing = log(65) = 4.174)
+
+step    0: train loss 4.409  val loss 4.409
+step  100: train loss 2.518  val loss 2.517
+step  200: train loss 2.365  val loss 2.366
+step  300: train loss 2.274  val loss 2.289
+step  400: train loss 2.212  val loss 2.178
+
+saved gpt.pt
+
+ARI:
+si en myours tarmalio ce of shert
+shy Gexpe owe, af my bumessir man and you dence;
+lane aree amerp sould bins alt o sis morcen?
+Whou thydive ent soverectere not bet my
+Mand ust bact dot my briower?
+V'trave, hand covew my If put now divingles;
+Peags, Koult thillut Ind mutwithe of a
+gobe efeaws my an erie onse hy engegee oldef,
+Lewss shas of choud-ir wow thin ansover, tate,
+We basettes Ghou thi
