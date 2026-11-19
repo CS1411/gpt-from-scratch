@@ -15,8 +15,8 @@ Papers: [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs
 - [x] Lesson 7 - Assemble and train the GPT
 - [x] Lesson 8 - Make it talk (decoding strategies)
 - [x] Lesson 9 - Ship your mini-GPT
-- [ ] Completion test
-- [ ] Project
+- [x] Completion test
+- [x] Project ([sports-play-by-play-generator](https://github.com/CS1411/sports-play-by-play-generator))
 
 ## What it does
 
